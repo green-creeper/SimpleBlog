@@ -1,6 +1,6 @@
 // @SOURCE:/Users/andrey/IdeaProjects/SimpleBlog/conf/routes
 // @HASH:f904f23acbfbb0ded1d9ae85b262187e14e562de
-// @DATE:Wed Jan 23 12:52:58 GMT+02:00 2013
+// @DATE:Wed Jan 23 18:13:35 GMT+02:00 2013
 
 import play.core._
 import play.core.Router._

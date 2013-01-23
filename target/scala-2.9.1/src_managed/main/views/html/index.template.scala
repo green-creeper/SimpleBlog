@@ -37,7 +37,7 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Wed Jan 23 12:53:00 GMT+02:00 2013
+                    DATE: Wed Jan 23 18:13:37 GMT+02:00 2013
                     SOURCE: /Users/andrey/IdeaProjects/SimpleBlog/app/views/index.scala.html
                     HASH: a9468e14516db88237e3431e8b54cf7780705202
                     MATRIX: 505->1|599->18|636->21|671->48|710->50|755->61|769->67|807->84
