@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.mongodb_mongo-java-driver_2.7.2">
+    <CLASSES>
+      <root url="jar:///development/play-2.0/repository/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-2.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

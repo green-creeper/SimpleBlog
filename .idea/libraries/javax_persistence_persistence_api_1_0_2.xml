@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.persistence_persistence-api_1.0.2">
+    <CLASSES>
+      <root url="jar:///development/play-2.0/repository/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

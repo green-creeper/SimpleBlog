@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="de.undercouch_bson4jackson_1.3.0">
+    <CLASSES>
+      <root url="jar:///development/play-2.0/repository/cache/de.undercouch/bson4jackson/jars/bson4jackson-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

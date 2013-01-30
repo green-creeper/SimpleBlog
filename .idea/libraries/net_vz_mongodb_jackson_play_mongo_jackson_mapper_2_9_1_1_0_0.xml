@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.vz.mongodb.jackson_play-mongo-jackson-mapper_2.9.1_1.0.0">
+    <CLASSES>
+      <root url="jar:///development/play-2.0/repository/cache/net.vz.mongodb.jackson/play-mongo-jackson-mapper_2.9.1/jars/play-mongo-jackson-mapper_2.9.1-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
